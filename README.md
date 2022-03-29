@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Amppiah
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning to code and visualise in order to find insights
-- 💞️ I’m looking to learn more on these
-
+Practicing my SQL Skills hence I will be posting codes that I write in SMSS
